@@ -8,3 +8,7 @@ print("Is there letter /a/ in both words?", "M" in (my_nieces_second_word and my
 print("Is Mayana is bigger word then Mita?",my_nieces_first_word>my_nieces_second_word)
 print("Is Mayana is equal to Mita?",my_nieces_first_word==my_nieces_second_word)
 print("Is Mayana is not equal to Mita?",my_nieces_first_word != my_nieces_second_word)
+d=3
+c=3.2
+a=d*c
+print(a)

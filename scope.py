@@ -2,6 +2,8 @@ a=3
 b=10
 if a<b:
 	result=10
+if a==3:
+	print("yahoo")
 
 print(result)
 

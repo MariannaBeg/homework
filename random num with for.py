@@ -1,6 +1,6 @@
 import random
 
-hidden_number=random.randint(1,100)
+hidden_number=random.randfloat(0,1)
 
 user_guess=0
 

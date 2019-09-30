@@ -1,6 +1,5 @@
-def even_or_odd(number):
-	if number%2==0:
-		return "Even"
-	return "ODD"
-num=int(input())
-print(even_or_odd(num))
+def add_numbers(num1,num2):
+	summing=num1+num2
+add_numbers(5,6)
+print(summing)
+

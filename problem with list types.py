@@ -1,7 +1,7 @@
 def average(in_list):
 	sum=0
-	for number in in_list:
-		sum+=number
+	for i in range(0,len(in_list)):
+		sum+=in_list[i]
 	return sum/len(in_list)
 my_list1=[1,2,3,4]
 my_list2=[91,92,93,94]

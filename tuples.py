@@ -8,7 +8,7 @@ user_info=tuple1()
 print("Your name is " +user_info[0])
 print("Your surname is "+user_info[1])
 
-nested_tuple = ((1,2),(3,4),(5,6))
+nested_tuple = [[1,2],[3,4],[5,6]]
 
 print(nested_tuple[0])
 print(nested_tuple[0][0])

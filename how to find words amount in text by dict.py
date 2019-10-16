@@ -13,7 +13,8 @@ for word in sample_text:
 	if word in words_dict.keys():
 		words_dict[word]+=1
 	else:
-		words_dict[word]=1# arajin angam handipelis bary else ov kgna heto arden if ov
+		words_dict[word]=1# arajin angam bary handipelis else ov kgna heto arden if ov
+
 # sa el kazmum enq nra hamar vor tpi miayn 2ic avel krknvox barery
 
 for (word,amount) in words_dict.items():

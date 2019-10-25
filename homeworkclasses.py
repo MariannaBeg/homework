@@ -3,7 +3,7 @@
 class Exercise:
 	def __init__(self,string):
 		self.string=string
-		self.__num=5
+		self.num=5
 	
 	# def getString(self):
 	# 	self.string=input()
